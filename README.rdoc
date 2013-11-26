@@ -3,9 +3,11 @@
 The program takes an initial word or phrase from
 the command line (or in the absence of a
 parameter from the first line of standard
-input).  In then reads successive words or
+input).  It then reads successive words or
 phrases from standard input and reports whether
 they are anagrams of the first word.
+
+http://lamonica.info/projects/anagram/anagram_preview_small.png
 
 Author::    Dave Thomas  (mailto:dave@x.y)
 Copyright:: Copyright (c) 2002 The Pragmatic Programmers, LLC
