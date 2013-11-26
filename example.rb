@@ -3,7 +3,7 @@
 # parameter from the first line of standard
 # input).  In then reads successive words or
 # phrases from standard input and reports whether
-# they are angrams of the first word.
+# they are anagrams of the first word.
 #
 # Author::    Dave Thomas  (mailto:dave@x.y)
 # Copyright:: Copyright (c) 2002 The Pragmatic Programmers, LLC

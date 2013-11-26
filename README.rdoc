@@ -1,0 +1,14 @@
+=== Anagram
+
+The program takes an initial word or phrase from
+the command line (or in the absence of a
+parameter from the first line of standard
+input).  In then reads successive words or
+phrases from standard input and reports whether
+they are anagrams of the first word.
+
+Author::    Dave Thomas  (mailto:dave@x.y)
+Copyright:: Copyright (c) 2002 The Pragmatic Programmers, LLC
+License::   Distributes under the same terms as Ruby
+
+http://images.betterworldbooks.com/193/Programming-Ruby-1-9-Thomas-Dave-9781934356081.jpg
